@@ -12,14 +12,13 @@ const About = () => {
         </Col>
         <Col md={8}>
           <p>
-            Hello! I'm a passionate web developer with a knack for building clean,
-            user-friendly, and responsive websites. My journey in coding began with a curiosity
-            about how things work, and it has evolved into a full-fledged passion for creating
-            digital experiences.
+            Hello! I'm a passionate **Data Analyst Apprentice** and **Full-Stack Web Developer** with a drive for turning complex data into actionable insights and building dynamic, user-friendly applications. My journey in tech is fueled by a love for problem-solving, whether it's optimizing a database or crafting a seamless user interface.
           </p>
           <p>
-            I specialize in the MERN stack and am always eager to learn new technologies.
-            When I'm not coding, I enjoy hiking, playing video games, and exploring new coffee shops.
+            When I'm not coding, I'm a dedicated **language enthusiast**, always seeking to understand new cultures through their words. This same curiosity and attention to detail also fuels my passion for football. As a proud fan of both **FC Barcelona** and **Manchester City**, I've learned the importance of teamwork, strategy, and continuous improvement—principles I apply to every project I undertake.
+          </p>
+          <p>
+            I'm always eager to learn and grow, bringing a blend of technical expertise and a unique perspective to every challenge.
           </p>
         </Col>
       </Row>
