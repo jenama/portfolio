@@ -1,0 +1,14 @@
+/* src/App.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  background-color: #f8f9fa;
+}
+
+.App {
+  padding-top: 56px; /* Adjust for fixed navbar height */
+}
+
+section {
+  padding: 60px 0;
+}
